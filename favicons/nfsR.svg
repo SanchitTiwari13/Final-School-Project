@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="350.367"
+   width="588.20001"
+   version="1.1"
+   id="svg1614"
+   sodipodi:docname="Need for Speed Symbol.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1025"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.7908123"
+     inkscape:cx="306.00639"
+     inkscape:cy="177.57305"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1614" />
+  <metadata
+     id="metadata1620">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1618" />
+  <g
+     fill="#e21c2a"
+     id="g1602"
+     style="fill:#000000;fill-rule:evenodd"
+     transform="translate(-61.1054,-465.6569)" />
+  <g
+     id="g1067"
+     transform="matrix(7.0709274,0,0,7.0709274,-4158.9039,0.6333307)">
+    <path
+       d="M 671.20377,0.06381 653.85335,15.91095 640.20641,39.55031 H 611.76603 L 671.20372,0.06391 Z"
+       id="path1574"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.340588" />
+    <path
+       d="m 616.75124,0.06346 h 33.81442 c 3.36034,0 5.90495,0.85829 6.38093,3.69113 l -17.84552,11.85546 1.14054,-2.01884 c 0.81103,-1.4343 0.4334,-2.67403 -1.42067,-2.67403 H 623.0964 L 608.74532,35.77667 588.2892,49.36654 616.75128,0.06338 Z"
+       id="path1576"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.340588" />
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+body {
+    background-image: url(../backgrounds/Minecraft.png);
+    image-resolution: from-image;
+    text-align: center;
+}
+.bodyDiv{
+    color: rgb(255, 255, 255);
+    background-color: rgba(0,0,0,0.4);
+    border: 10px solid rgba(0,0,0,0.5);
+}
+h1,h2,h3{
+    font-family: Knight-Warrior;
+}
+p, a{
+    color: rgb(255, 255, 255);
+    font-family: Venite-Adoremus;
+}
+ul{
+    list-style: none;
+}
+@font-face {
+    font-family: Knight-Warrior;
+    src: url(../fonts/KnightWarrior.otf);
+}
+@font-face {
+    font-family: Tencho-Race;
+    src: url(../fonts/TechnoRace.otf);
+}
+@font-face {
+    font-family: Valorax;
+    src: url(../fonts/Valorax.otf);
+}
+@font-face {
+    font-family: Venite-Adoremus;
+    src: url(../fonts/VeniteAdoremus.ttf);
+}
+@font-face {
+    font-family: Venite-Adoremus-Straight;
+    src: url(../fonts/VeniteAdoremusStraight.ttf);
+}

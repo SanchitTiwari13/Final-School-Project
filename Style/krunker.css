@@ -1,0 +1,37 @@
+body{
+    background-image: url(../backgrounds/Krunker.png);
+    text-align: center;
+    font-family: Venite-Adoremus;
+}
+h1, h2, h3{
+    font-family: Knight-Warrior;
+}
+.bodyDiv{
+    color: rgb(255, 255, 255);
+    background-color: rgba(0,0,0,0.4);
+    border: 10px solid rgba(0,0,0,0.5);
+}
+p, a{
+    color: rgb(255, 255, 255);
+    font-family: Venite-Adoremus;
+}
+@font-face {
+    font-family: Knight-Warrior;
+    src: url(../fonts/KnightWarrior.otf);
+}
+@font-face {
+    font-family: Tencho-Race;
+    src: url(../fonts/TechnoRace.otf);
+}
+@font-face {
+    font-family: Valorax;
+    src: url(../fonts/Valorax.otf);
+}
+@font-face {
+    font-family: Venite-Adoremus;
+    src: url(../fonts/VeniteAdoremus.ttf);
+}
+@font-face {
+    font-family: Venite-Adoremus-Straight;
+    src: url(../fonts/VeniteAdoremusStraight.ttf);
+}

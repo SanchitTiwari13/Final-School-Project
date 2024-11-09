@@ -1,0 +1,43 @@
+body{
+    color: #fff;
+    text-align: center;
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+table{
+    position: relative;
+    margin-top: 5%;
+}
+
+.nfsR, .nfsH, .tuxKart, .snail, .mc, .cs2, .palia, .krunker{
+    font-family: Venite-Adoremus;
+}
+h1, p{
+    font-family: Knight-Warrior;
+}
+.valo{
+    font-family: Valorax;
+}
+@font-face {
+    font-family: Knight-Warrior;
+    src: url(../fonts/KnightWarrior.otf);
+}
+@font-face {
+    font-family: Tencho-Race;
+    src: url(../fonts/TechnoRaceItalic.otf);
+}
+@font-face {
+    font-family: Valorax;
+    src: url(../fonts/Valorax.otf);
+}
+@font-face {
+    font-family: Venite-Adoremus;
+    src: url(../fonts/VeniteAdoremus.ttf);
+}
+@font-face {
+    font-family: Venite-Adoremus-Straight;
+    src: url(../fonts/VeniteAdoremusStraight.ttf);
+}
